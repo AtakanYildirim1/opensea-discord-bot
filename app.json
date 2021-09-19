@@ -9,17 +9,17 @@
   "repository": "https://github.com/sbauch/opensea-discord-bot",
   "env": {
     "CONTRACT_ADDRESS": {
-      "description": "The address of your token contract"
+      "description": "0x8cd8155e1af6ad31dd9eec2ced37e04145acfcb3"
     },
     "COLLECTION_SLUG": {
-      "description": "The OpenSea slug for your collection"
+      "description": "https://opensea.io/collection/cupcatsofficial"
     },
     "DISCORD_BOT_TOKEN": {
-      "description": "The auth token for a Discord bot",
+      "description": "ODg3MDM1MjQwMDUxMjQ1MTM2.YT-R8Q.gK33XveZR3Ee-yRXcagWP_iZS1Q",
       "required": true
     },
     "DISCORD_CHANNEL_ID": {
-      "description": "Your Discord channel ID (snowflake), i.e. 694927656805859499, where your Bot has access and will post",
+      "description": "875085011961913384",
       "required": false
     },
     "SECONDS": {
